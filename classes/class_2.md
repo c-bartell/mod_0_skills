@@ -1,13 +1,14 @@
-## class Dish
+## class PlaceSetting
 
 ### attribute
-* size (string)
-* color (string)
-* contents (array)
-* is_clean (boolean)
+* meal (string)
+* silverware (array)
+* dishes (array)
+* center_piece (string)
+* ready (boolean)
 
 ### methods
-* change_size (update size)
-* change_color (update color)
-* plate_food (add food to contents)
-* wash (make is_clean true)
+* change_meal (update meal)
+* change_silverware (update silverware)
+* change_dishes (update dishes)
+* change_centerpiece (update center_piece)
