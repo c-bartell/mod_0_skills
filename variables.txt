@@ -1,0 +1,9 @@
+food = "Froot Loops"
+is_delicious = true
+food = "Granola"
+num2 = 3
+num7 = 6
+quotient = num7 / num2
+songs = ["Thriller", "Stars and Stripes Forever", "Gin and Juice"]
+songs.shift
+puts "How many characters are there in the string \"" + food + "\"?"
