@@ -5,7 +5,6 @@
 * silverware (array)
 * dishes (array)
 * center_piece (string)
-* ready (boolean)
 
 ### methods
 * change_meal (update meal)
